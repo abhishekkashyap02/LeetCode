@@ -1,5 +1,4 @@
 // Abhishek Kashyap
-
 class Solution {
 public:
     bool isPowerOfTwo(int n) {
