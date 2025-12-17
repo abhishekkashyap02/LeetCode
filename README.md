@@ -23,3 +23,6 @@ My main goals with this repo:
 ---
 
 ## 📂 Repository Structure  
+
+Solutions are added topic-wise and will be organized gradually as I progress.
+
