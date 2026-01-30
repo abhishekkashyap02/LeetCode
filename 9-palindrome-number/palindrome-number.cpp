@@ -11,10 +11,8 @@ public:
             x = x / 10;          
         }
         if (original == reversed){
-            return true;
-        }
+            return true; }
         else{
-            return false;
-        }
+            return false; }
     }
 };
