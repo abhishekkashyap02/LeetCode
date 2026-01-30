@@ -10,9 +10,11 @@ public:
             reversed = reversed * 10 + digit;
             x = x / 10;          
         }
-        if (original == reversed)
+        if (original == reversed){
             return true;
-        else
+        }
+        else{
             return false;
+        }
     }
 };
