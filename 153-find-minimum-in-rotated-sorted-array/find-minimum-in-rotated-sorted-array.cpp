@@ -1,3 +1,5 @@
+// Abhishek Kashyap
+
 class Solution {
 public:
     int findMin(vector<int>& nums) {
