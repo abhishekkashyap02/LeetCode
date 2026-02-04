@@ -1,4 +1,3 @@
-// Abhishek Kashyap
 
 class Solution {
 public:
