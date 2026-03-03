@@ -2,27 +2,53 @@
 
 <div align="center">
 
-<table border="0" width="100%"><tr>
-<td width="80" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="50"/></td>
-<td align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    LEETCODE HEADER BANNER                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![brand](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=1&pause=999999&color=FFA116&center=true&vCenter=true&repeat=false&width=580&lines=LeetCode)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,8,20&text=LeetCode&fontColor=FFA116&fontSize=80&fontAlignY=55&desc=DSA%20Archive%20·%20C%2B%2B%20Solutions&descAlignY=78&descSize=20&descColor=ffffff&animation=fadeIn&stroke=FFA116&strokeWidth=2"/>
+
+<br/>
+
+<img src="https://leetcode.card.workers.dev/abhikashyap_02?style=auto&theme=dark&font=baloo_2&extension=null&border=FFA116" alt="LeetCode Stats" />
+
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+
+[![LeetCode](https://img.shields.io/badge/🟧%20LeetCode-abhikashyap__02-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1a1a2e)](https://leetcode.com/u/abhikashyap_02/)
 
 </td>
-<td width="80" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="50"/></td>
-</tr></table>
+<td>&nbsp;&nbsp;</td>
+<td>
 
-[![tagline](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1&pause=999999&color=FFA116&center=true&vCenter=true&repeat=false&width=780&lines=Level+up+your+coding+skills+and+quickly+land+a+job.)](https://git.io/typing-svg)
-[![divider1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1&pause=999999&color=FFA116&center=true&vCenter=true&repeat=false&width=780&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
-[![repo-title](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=1&pause=999999&color=FFA116&center=true&vCenter=true&repeat=false&width=780&lines=🧠+DSA+Archive+·+C%2B%2B+Solutions)](https://git.io/typing-svg)
-[![levels](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=999999&color=FFA116&center=true&vCenter=true&repeat=false&width=780&lines=🟢+Easy+→+🟡+Medium+→+🔴+Hard)](https://git.io/typing-svg)
-[![divider2](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1&pause=999999&color=FFA116&center=true&vCenter=true&repeat=false&width=780&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=FFA116&center=true&vCenter=true&width=680&lines=🧡+Solving+DSA+on+LeetCode+daily;📂+Every+problem+→+its+own+folder+%2B+solution;🧠+Easy+→+Medium+→+Hard;💻+Clean+C%2B%2B+%7C+No+shortcuts+%7C+Real+prep)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-abhishekkashyap02-white?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/abhishekkashyap02/LeetCode)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-abhikashyap__02-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhikashyap_02/)
-[![GitHub](https://img.shields.io/badge/GitHub-abhishekkashyap02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekkashyap02/LeetCode)
-[![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![Commits](https://img.shields.io/badge/Commits-Active-FFA116?style=for-the-badge&logo=git&logoColor=white)]()
+</td>
+<td>&nbsp;&nbsp;</td>
+<td>
+
+[![C++](https://img.shields.io/badge/⚡%20C++-Solutions-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a2e)](https://isocpp.org/)
+
+</td>
+<td>&nbsp;&nbsp;</td>
+<td>
+
+[![Commits](https://img.shields.io/badge/🔥%20Commits-Active-FFA116?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e)]()
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=FFA116&center=true&vCenter=true&width=700&lines=🧡+Grinding+DSA+on+LeetCode+every+single+day;📂+Every+problem+→+its+own+folder+%2B+clean+solution;🧠+Easy+→+Medium+→+Hard+%7C+Never+skip+a+day;💻+Clean+C%2B%2B+%7C+No+shortcuts+%7C+Real+interview+prep;🚀+Building+logic+%7C+Cracking+patterns+%7C+Landing+the+job)](https://git.io/typing-svg)
+
+<br/>
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 </div>
 
@@ -64,7 +90,7 @@
 │       └── 💻 solution.cpp
 │
 └── 📁 Difficulty: Hard/               🔴  Advanced algorithms
-    └── 📂 [Problem Name]/           
+    └── 📂 [Problem Name]/            (coming soon 🚧)
         ├── 📄 README.md
         └── 💻 solution.cpp
 ```
@@ -208,23 +234,9 @@ public:
 
 <div align="center">
 
-[![f1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=FFA116&center=true&vCenter=true&repeat=false&width=780&lines=╔══════════════════════════════════════════════════════════════════╗)](https://git.io/typing-svg)
-
-[![f2](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=FFA116&center=true&vCenter=true&repeat=false&width=780&lines=║++"The+expert+in+anything+was+once+a+beginner."++║)](https://git.io/typing-svg)
-
-[![f3](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=FFA116&center=true&vCenter=true&repeat=false&width=780&lines=╚══════════════════════════════════════════════════════════════════╝)](https://git.io/typing-svg)
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20&height=120&section=footer&text=Keep+Grinding+%F0%9F%94%A5&fontColor=FFA116&fontSize=28&fontAlignY=65&animation=fadeIn"/>
 
 ⭐ **If this repo helps your DSA journey — drop a star!** ⭐
-
-<br/>
-
-![Made with](https://img.shields.io/badge/Made%20with-🧡%20%26%20C%2B%2B-FFA116?style=for-the-badge)
-&nbsp;
-![Powered by](https://img.shields.io/badge/Powered%20by-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-
-<br/>
 
 [![Back to Top](https://img.shields.io/badge/▲─────────────Back%20to%20Top─────────────▲-FFA116?style=for-the-badge)](#top)
 
