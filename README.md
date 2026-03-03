@@ -64,7 +64,7 @@
 │       └── 💻 solution.cpp
 │
 └── 📁 Difficulty: Hard/               🔴  Advanced algorithms
-    └── 📂 [Problem Name]/            (coming soon 🚧)
+    └── 📂 [Problem Name]/           
         ├── 📄 README.md
         └── 💻 solution.cpp
 ```
